@@ -1,1 +1,1 @@
-# Wildfire-Detection-using-Satellite-Images-CNN-
+# Wildfire-Detection
